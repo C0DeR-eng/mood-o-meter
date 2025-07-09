@@ -18,4 +18,4 @@ Meet Mood-o-Meter 3000 — your emotionally confused but loyal Python bot that *
 ## 🧪 Try It
 Just run:
 ```bash
-python moodometer.py
+python mood_bot.py
